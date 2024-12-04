@@ -9,6 +9,7 @@
 
 * Matlab R2022b with optimization toolbox
 * Intel compiler for C++ (icpc version 2021.6.0 [gcc version 9.4.0 compatibility])
+* Sundials version 5.7 (For CVODE)
 
 ### Folders
 * Control_fitting: source code for fitting to control traces
