@@ -1,5 +1,11 @@
 
 
+
+### Packages and Software
+
+* Matlab R2022b with optimization toolbox
+* Intel compiler for C++ (icpc version 2021.6.0 [gcc version 9.4.0 compatibility])
+
 * Compile C++ code for iPSC-CMs
 ```sh
 
