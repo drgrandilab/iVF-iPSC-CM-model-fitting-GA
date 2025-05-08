@@ -34,7 +34,7 @@ Run Matlab -> matlab_population_analysis.m (Example output in res_lim_800)
 
 
 ### Debug:
-*** with new linux machines, if having 139 code wih segmentation error with the ```system()``` command wiht matlab, add 
+* with new linux machines, if having 139 code wih segmentation error with the ```system()``` command wiht matlab, add 
 ``` setenv('LD_LIBRARY_PAHT","")```
-*** modify the Makefile accordingly if running on a AMD machine or with G++
+* modify the Makefile accordingly if running on a AMD machine or with G++
 
